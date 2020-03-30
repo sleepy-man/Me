@@ -1,0 +1,124 @@
+body {
+  margin: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr{
+  width: 1px;
+  height: 1px;
+  border-style: dotted;
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+  background-color: none;
+  width: 6%;
+  height: 60px;
+  border-top-width: 6px;
+  border-color: #D0D0D0;
+
+}
+
+.top-container {
+  background-color: #EAF6F6;
+}
+
+p{
+  line-height: 1.5;
+  color: #40514E;
+  font-size: 14pt;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.5rem;
+  margin: auto auto auto auto;
+  color: #66BFBF;
+  line-height: double;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills-img {
+  width: 25%;
+  float: left;
+  margin: auto 30px auto auto;
+}
+
+.skills-img2 {
+  width: 25%;
+  float: right;
+  margin: auto auto auto 30px;
+}
+
+.fotoabid {
+  height: 175px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.mountain {
+  margin: 30px auto auto auto;
+  height: 400px;
+}
+
+.h1abid {
+  font-family: 'Vibur', cursive;
+  margin: 100px auto 0 auto;
+  font-size: 5.3125rem;
+  color: #66BFBF;
+  line-height: 1;
+  font-weight: lighter;
+}
+
+.persona {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.5rem;
+  margin: 50px auto 70px auto;
+  color: #66BFBF;
+  line-height: double;
+  font-weight: normal;
+}
+
+.middle-container {
+
+}
+
+.buttom-container {}
+
+.ing {
+  text-decoration: underline;
+}
+
+.nube1 {
+  position: relative;
+  top: 30px;
+  left: 220px;
+}
+
+.nube2 {
+  position: absolute;
+  left: 300px;
+}
