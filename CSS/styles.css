@@ -106,7 +106,10 @@ h2 {
 
 }
 
-.buttom-container {}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
 
 .ing {
   text-decoration: underline;
@@ -122,3 +125,45 @@ h2 {
   position: absolute;
   left: 300px;
 }
+
+.copy{
+  color: #EAF6F6;
+}
+ .despedida{
+   width: 35%;
+   margin: auto;
+ }
+
+ .btn {
+ 	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+ 	background-color:#599bb3;
+ 	border-radius:7px;
+ 	display:inline-block;
+ 	cursor:pointer;
+ 	color:#ffffff;
+ 	font-family:Arial;
+ 	font-size:19px;
+ 	font-weight:bold;
+ 	padding:9px 15px;
+ 	text-decoration:none;
+  margin: 20px auto;
+ }
+ .btn:hover {
+ 	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+ 	background-color:#408c99;
+ }
+ .myButton:active {
+ 	position:relative;
+ 	top:1px;
+ }
+
+ .links{
+  margin: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-family: 'source sans Pro'sans-serif;
+ }
+ .links:hover{
+   color: white;
+ }
